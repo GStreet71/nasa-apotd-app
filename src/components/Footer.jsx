@@ -6,12 +6,11 @@ function Footer(props) {
 
   return (
     <footer>
-        <div className="background-gradient">
-
-        </div>
-        <div>
-           <h1>APOD PROJECT</h1>
-            <h2>{data?.title}</h2>
+        <div className="background-gradient"></div>
+        <div className='footer-container'>
+          <h1>Astromiomical Picture of the Day</h1>
+          <h1 className='date'>{ data?.date }</h1>          
+          <h2>{data?.title}</h2>
         </div>
         <button onClick={handleToggleModal}>
             <i className="fa-solid fa-circle-info" />

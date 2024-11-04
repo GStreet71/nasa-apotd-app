@@ -22,7 +22,7 @@
 min-height: 100vh;
 display: flex;
 display: relative;
-max-height: 100vh;
+/* max-height: 100vh; */
 }
 
 .image-container {
@@ -59,7 +59,7 @@ footer h2 {
 
 footer h1 {
   font-size: 0.9rem;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 footer button {
@@ -83,19 +83,19 @@ footer button:hover {
   background: linear-gradient(to top, hsl(230, 75%, 5%), rgba(255, 255, 255, 0));
 }
 
+.background-overlay {
+  position: absolute;
+  inset: 0;
+  background: hsl(230, 75%, 5%);
+  opacity: 0.6;
+}
+
 .sidebar {
   position: fixed;
   inset: 0;
   display: flex;
   flex-direction: column;
   z-index: 10;
-}
-
-.background-overlay {
-  position: absolute;
-  inset: 0;
-  background: hsl(230, 75%, 5%);
-  opacity: 0.6;
 }
 
 .sidebar-contents {
@@ -105,7 +105,7 @@ footer button:hover {
   flex-direction: column;
   gap: 1rem;
   padding: 1rem;
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
   height: 100%;
   width: 90%;
   max-width: 800px;
