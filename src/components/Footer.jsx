@@ -8,8 +8,8 @@ function Footer(props) {
     <footer>
         <div className="background-gradient"></div>
         <div className='footer-container'>
-          <h1>Astrological Picture of the Day</h1>
-          <h1 className='date'>{ data?.date }</h1>          
+          <h1>Astrological Picture of the Day for <span className='date'>{ data?.date }</span></h1>
+          {/* <h1 className='date'>{ data?.date }</h1>           */}
           <h2>{data?.title}</h2>
         </div>
         <button onClick={handleToggleModal}>
