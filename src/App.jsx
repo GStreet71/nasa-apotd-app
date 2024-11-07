@@ -41,6 +41,18 @@ function App() {
       fetchAPIData()
   }, [])
 
+  useEffect(() => {
+    const checkScreenSize = () => {
+      const screenWidth = window.innerWidth
+      setShowModal(screenWidth > 1100)
+    };
+
+    checkScreenSize()
+    window.addEventListener("resize", checkScreenSize)
+
+    return () => window.removeEventListener("resize", checkScreenSize)
+  }, [])
+
   return (
     <>
       {data ? (<Main data={data} />) : (
