@@ -12,7 +12,7 @@
 
 Astronomical Picture of the Day (APOTD) App
 
-![Static Badge](https://img.shields.io/badge/Click%20Here-Live%20Demo-blue?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge)](https://apotd.netlify.app)
 <br><br>
 
 # Installation
