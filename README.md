@@ -27,7 +27,7 @@ To get started with this Vite React project, follow these steps:
   git clone https://github.com/GStreet71/nasa-apotd-app.git
   ```
   ```bash
-  cd https://github.com/GStreet71/nasa-apotd-app
+  cd nasa-apotd-app
   ```
 <br>
 
