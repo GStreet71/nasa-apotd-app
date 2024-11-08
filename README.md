@@ -12,7 +12,7 @@
 
 Astrological Picture of the Day (APOTD) App
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-blue)](https://apotd.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge)](https://apotd.netlify.app)
 <br><br>
 
 # Installation
