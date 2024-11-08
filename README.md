@@ -10,9 +10,9 @@
 ![Alt text](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
 <br><br>
 
-Astrological Picture of the Day (APOTD) App
+Astronomical Picture of the Day (APOTD) App
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-blue)](https://apotd.netlify.app)
+![Static Badge](https://img.shields.io/badge/Click%20Here-Live%20Demo-blue?style=for-the-badge)
 <br><br>
 
 # Installation
