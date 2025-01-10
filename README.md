@@ -1,5 +1,5 @@
 
-#  ASTROLOGICAL PICTURE OF THE DAY
+#  ASTRONOMICAL PICTURE OF THE DAY
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92d7cd3c-8a26-4290-805f-2613e1977150/deploy-status)](https://app.netlify.com/sites/apotd/deploys)
 
 ![Alt text](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
@@ -10,7 +10,7 @@
 ![Alt text](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
 <br><br>
 
-Astrological Picture of the Day (APOTD) App
+Astronomical Picture of the Day (APOTD) App
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge)](https://apotd.netlify.app)
 <br><br>
